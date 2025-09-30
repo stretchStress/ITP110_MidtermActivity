@@ -32,7 +32,7 @@ const TeamSection = () => {
     {
       name: "Zoen Aldueza",
       role: "Frontend Developer", 
-      image: "/zoen.jpg",
+      image: "/zoen.png",
       description: "I’m an aspiring frontend developer learning to build clean, responsive, and user-friendly websites.",
       email: "alduezazoen77@gmail.com",
       github: "https://github.com/ZAA-ZAA",
