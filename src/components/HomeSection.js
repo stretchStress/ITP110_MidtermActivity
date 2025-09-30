@@ -8,7 +8,7 @@ const HomeSection = () => {
           <div className="col-lg-6">
             <h1 className="fw-bold">Welcome to Group 2's Website</h1>
             <p className="lead mb-4">
-              We are passionate IT students dedicated to creating innovative solutions 
+              We are passionate 4th Year IT students dedicated to creating innovative solutions 
               and mastering cutting-edge technologies. Join us on our journey through 
               the world of software development and digital innovation.
             </p>

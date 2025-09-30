@@ -21,13 +21,13 @@ const TeamSection = () => {
       skills: ["Html", "Figma"]
     },
     {
-      name: "Team Member 3",
-      role: "Add Role",
-      image: "/member3.jpg", 
-      description: "Description here...",
-      email: "member3@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Jake Abriam",
+      role: "IT Support Specialist",
+      image: "abriam.jpg", 
+      description: "Aspiring IT Professional interested technical assistance and ensures smooth system operations by supporting end-users and maintaining reliable IT solutions",
+      email: "abriamjake13@gmail.com",
+      github: "https://github.com/abriamjake13",
+      skills: ["Troubleshooting", "Technical Support","System Maintenance"]
     },
     {
       name: "Zoen Aldueza",
@@ -42,19 +42,19 @@ const TeamSection = () => {
       name: "Lawrence Mindanao",
       role: "Web Developer",
       image: "/mindanao.png",
-      description: "An ispiring IT student with a hopes of growing in the field of web development. Specializes in full-stack development.",
+      description: "An aspiring IT Professional with a hopes of growing in the field of web development. Specializes in full-stack development.",
       email: "mindanaolawrence86@gmail.com",
       github: "https://github.com/stretchStress",
       skills: ["React", "Laravel", "Java", "MySQL", "C++"]
     },
     {
-      name: "Team Member 6",
-      role: "Add Role",
-      image: "/member6.jpg",
-      description: "Description here...",
-      email: "member6@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Ara Christina C. Ceres",
+      role: "Quality Assurance(QA) Tester",
+      image: "/CERES_2x2.png",
+      description: "An aspiring QA Tester interested handling identifying bugs and ensuring software reliability. Eager to learn more in testing, debugging, and improving overall quality.",
+      email: "ceresarachritina74@gmail.com",
+      github: "https://github.com/arac880",
+      skills: ["Test Case Design","Debugging","Bug Tracking","Problem-Solving"]
     },
     {
   name: "Genesis M. Abanales",
