@@ -1,0 +1,85 @@
+/* Global Styles */
+.App {
+  text-align: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Section Styles */
+.home-section {
+  background: linear-gradient(135deg, #667eea 0%, #a492b7 100%);
+  color: white;
+  min-height: 100vh;
+  padding-top: 76px;
+  /* Account for fixed navbar */
+}
+
+.about-section,
+.contact-section {
+  min-height: 100vh;
+  padding-top: 76px;
+  /* Account for fixed navbar */
+}
+
+/* Card Hover Effects */
+.card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Navigation Styles */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  font-weight: 500;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #007bff !important;
+}
+
+/* Button Styles */
+.btn-primary {
+  background: linear-gradient(45deg, #007bff, #0056b3);
+  border: none;
+  padding: 12px 30px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 123, 255, 0.3);
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .display-4 {
+    font-size: 2.5rem;
+  }
+
+  .display-5 {
+    font-size: 2rem;
+  }
+
+  .home-section,
+  .about-section,
+  .contact-section {
+    padding-top: 66px;
+  }
+}
