@@ -82,4 +82,8 @@ body {
   .contact-section {
     padding-top: 66px;
   }
+
+  #homeContent {
+    align-content: center;
+  }
 }

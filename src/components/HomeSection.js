@@ -4,7 +4,7 @@ const HomeSection = () => {
   return (
     <section id="home" className="home-section d-flex align-items-center">
       <div className="container">
-        <div className="row align-items-center min-vh-100">
+        <div className="row align-items-center min-vh-100" id="homeContent"> 
           <div className="col-lg-6">
             <h1 className="fw-bold">Welcome to Group 2's Website</h1>
             <p className="lead mb-4">
