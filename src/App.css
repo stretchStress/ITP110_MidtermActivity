@@ -11,13 +11,33 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+/* navigation */
+.custom-navbar {
+  background-color: rgb(13, 13, 76); 
+}
+
+.custom-navbar .nav-link {
+  color: #ffffff; 
+}
+
+.custom-navbar .nav-link:hover {
+  color: #ffcc00; 
+}
+
+
 /* Section Styles */
 .home-section {
-  background: linear-gradient(135deg, #667eea 0%, #a492b7 100%);
+  background: linear-gradient(135deg, #16266c 0%, #dccdec 100%);
   color: white;
   min-height: 100vh;
   padding-top: 76px;
   /* Account for fixed navbar */
+}
+
+.home-section h1 {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  
 }
 
 .about-section,

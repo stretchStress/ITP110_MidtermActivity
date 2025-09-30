@@ -6,7 +6,7 @@ const Navigation = () => {
   };
 
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <nav className="navbar navbar-expand-lg navbar-dark custom-navbar fixed-top">
       <div className="container">
         <a className="navbar-brand fw-bold" href="#home" onClick={() => scrollToSection('home')}>
           Group 2
