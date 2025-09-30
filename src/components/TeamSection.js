@@ -30,13 +30,13 @@ const TeamSection = () => {
       skills: ["Skill1", "Skill2"]
     },
     {
-      name: "Team Member 4",
-      role: "Add Role",
-      image: "/member4.jpg",
-      description: "Description here...",
-      email: "member4@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Zoen Aldueza",
+      role: "Frontend Developer", 
+      image: "/zoen.jpg",
+      description: "I’m an aspiring frontend developer learning to build clean, responsive, and user-friendly websites.",
+      email: "alduezazoen77@gmail.com",
+      github: "https://github.com/ZAA-ZAA",
+      skills: ["HTML", "CSS", "JavaScript", "Responsive Design"]
     },
     {
       name: "Lawrence Mindanao",
