@@ -42,6 +42,15 @@ const Navigation = () => {
             <li className="nav-item">
               <a
                 className="nav-link"
+                href="#team"
+                onClick={() => scrollToSection('team')}
+              >
+                Our Team
+              </a>
+            </li>
+            <li className="nav-item">
+              <a
+                className="nav-link"
                 href="#contact"
                 onClick={() => scrollToSection('contact')}
               >

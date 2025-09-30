@@ -59,31 +59,6 @@ const AboutSection = () => {
           </div>
         </div>
         
-        <div className="row mt-5">
-          <div className="col-lg-12 mx-auto">
-            <div className="card border-1">
-              <div className="card-body text-center">
-                <h4 className="card-title mb-4">Our Members</h4>
-                <div className="row">
-                  <div className="col-md-3 mb-3">
-                    <span className="badge bg-primary p-2">React.js</span>
-                  </div>
-                  <div className="col-md-3 mb-3">
-                    <span className="badge bg-primary p-2">Php</span>
-                  </div>
-                  <div className="col-md-3 mb-3">
-                    <span className="badge bg-primary p-2">Java</span>
-                  </div>
-                  <div className="col-md-3 mb-3">
-                    <span className="badge bg-primary p-2">MySQL</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
         {/* Additional IT Student Focus Section */}
         <div className="row mt-5">
           <div className="col-lg-8 mx-auto">
