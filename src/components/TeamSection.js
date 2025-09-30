@@ -14,7 +14,7 @@ const TeamSection = () => {
     {
       name: "Molly Geraldez",
       role: "Web Designer", 
-      image: "/molly.png",
+      image: "/molly.jpg",
       description: "Simple and creative web designer with a knack for user-friendly designs.",
       email: "geraldezmolly36@gmail.com",
       github: "https://github.com/mollygeraldez",
