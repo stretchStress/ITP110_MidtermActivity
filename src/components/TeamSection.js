@@ -49,12 +49,12 @@ const TeamSection = () => {
     },
     {
       name: "Ara Christina C. Ceres",
-      role: "Quality Assurance(QA) Tester",
+      role: "Quality Assurance(QA) Tester/Project Manager",
       image: "/CERES_2x2.png",
-      description: "An aspiring QA Tester interested handling identifying bugs and ensuring software reliability. Eager to learn more in testing, debugging, and improving overall quality.",
+      description: "An aspiring QA Tester interested handling identifying bugs and ensuring software reliability. Organizes, coordinates, and oversees project tasks to ensure timely delivery and team collaboration",
       email: "ceresarachritina74@gmail.com",
       github: "https://github.com/arac880",
-      skills: ["Test Case Design","Debugging","Bug Tracking","Problem-Solving"]
+      skills: ["Project Planning","Debugging","Bug Tracking","Problem-Solving"]
     },
     {
   name: "Genesis M. Abanales",
