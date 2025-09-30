@@ -30,22 +30,22 @@ const TeamSection = () => {
       skills: ["Skill1", "Skill2"]
     },
     {
-      name: "Team Member 4",
-      role: "Add Role",
-      image: "/member4.jpg",
-      description: "Description here...",
-      email: "member4@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Zoen Aldueza",
+      role: "Frontend Developer", 
+      image: "/zoen.png",
+      description: "I’m an aspiring frontend developer learning to build clean, responsive, and user-friendly websites.",
+      email: "alduezazoen77@gmail.com",
+      github: "https://github.com/ZAA-ZAA",
+      skills: ["HTML", "CSS", "JavaScript", "Responsive Design"]
     },
     {
-      name: "Team Member 5",
-      role: "Add Role",
-      image: "/member5.jpg",
-      description: "Description here...",
-      email: "member5@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Lawrence Mindanao",
+      role: "Web Developer",
+      image: "/mindanao.png",
+      description: "An ispiring IT student with a hopes of growing in the field of web development. Specializes in full-stack development.",
+      email: "mindanaolawrence86@gmail.com",
+      github: "https://github.com/stretchStress",
+      skills: ["React", "Laravel", "Java", "MySQL", "C++"]
     },
     {
       name: "Team Member 6",
@@ -57,14 +57,14 @@ const TeamSection = () => {
       skills: ["Skill1", "Skill2"]
     },
     {
-      name: "Team Member 7",
-      role: "Add Role",
-      image: "/member7.jpg",
-      description: "Description here...",
-      email: "member7@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
-    }
+  name: "Genesis M. Abanales",
+  role: "Networking and Hardware",
+  image: "/abanales.jfif",
+  description: "IT student with skills in networking and hardware. Configuring routers, switches, and troubleshooting hardware.",
+  email: "abanalesgenesis76@gmail.com",
+  github: "https://github.com/Genesis2327",
+  skills: ["Networking 1&2", "Router & Switch Setup", "VLAN", "Hardware Troubleshooting"]
+}
   ];
 
   return (
