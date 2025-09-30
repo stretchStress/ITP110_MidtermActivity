@@ -57,14 +57,14 @@ const TeamSection = () => {
       skills: ["Skill1", "Skill2"]
     },
     {
-      name: "Team Member 7",
-      role: "Add Role",
-      image: "/member7.jpg",
-      description: "Description here...",
-      email: "member7@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
-    }
+  name: "Genesis M. Abanales",
+  role: "Networking and Hardware",
+  image: "/abanales.jfif",
+  description: "IT student with skills in networking and hardware. Configuring routers, switches, and troubleshooting hardware.",
+  email: "abanalesgenesis76@gmail.com",
+  github: "https://github.com/Genesis2327",
+  skills: ["Networking 1&2", "Router & Switch Setup", "VLAN", "Hardware Troubleshooting"]
+}
   ];
 
   return (
