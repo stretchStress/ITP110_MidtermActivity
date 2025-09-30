@@ -12,13 +12,13 @@ const TeamSection = () => {
       skills: ["React", "JavaScript", "Php", "MySQL"]
     },
     {
-      name: "Team Member 2",
-      role: "Add Role", 
-      image: "/member2.jpg",
-      description: "Description here...",
-      email: "member2@student.edu",
-      github: "#",
-      skills: ["Skill1", "Skill2"]
+      name: "Molly Geraldez",
+      role: "Web Designer", 
+      image: "/molly.png",
+      description: "Simple and creative web designer with a knack for user-friendly designs.",
+      email: "geraldezmolly36@gmail.com",
+      github: "https://github.com/mollygeraldez",
+      skills: ["Html", "Figma"]
     },
     {
       name: "Team Member 3",
